@@ -1,6 +1,6 @@
 # EASTinphectiON.github.io
 
-Looking to Mentor with an Earn as you Learn moto
+<html> Looking to Mentor with an Earn as you Learn moto
 
 For more information please refer to "T.A.P." Or TAP 
 ....and its various Division and Ventures
@@ -16,7 +16,15 @@ The Affiliate Presention
 The Affiliate Plan
 ..Plan.net
 
+"TAP into the Digital Economy with ME"
 
-"TAP into the DIgital Economy with ME"
-
-<button text join now>
+insert <button>
+  
+  See here to Browse all Projects of mine, Easton Bodeux
+  Filter Compoany and Organizations 
+  
+  List <Compile>
+ <dropdown> <Heading> <insert Text> "T.A.P"
+   
+   <html>
+     
